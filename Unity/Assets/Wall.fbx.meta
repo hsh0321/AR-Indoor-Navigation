@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 204e9d6c4e91c9643902f49df2223f9e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ExternalWalls:904074c8-a06f-4f3e-87fb-f2c478158764
+    100002: FloorFillerTop:904074c8-a06f-4f3e-87fb-f2c478158764
+    100004: //RootNode
+    100006: InnerSide:040ce451-1057-4eea-8642-b81159fa2483
+    100008: InnerSide:15878da7-51d3-4910-94e3-5689cb5d5a7a
+    100010: InnerSide:289b0f0c-eec0-42bb-808c-e72546e091da
+    100012: InnerSide:36bddf91-98e3-49a8-9b06-5c35af05ff8d
+    100014: InnerSide:41ef6834-0f2d-420a-9074-8c83d7a54307
+    100016: InnerSide:43a90c59-2392-4560-9b53-c792a3f54623
+    100018: InnerSide:4c7ed9e5-f973-4709-a4ef-6847141c8d49
+    100020: InnerSide:5ddb5b1f-90fc-4689-88fd-bd2662208e86
+    100022: InnerSide:612d8118-3a45-4c16-8c5c-44930e0763e6
+    100024: InnerSide:630ed554-15ae-4696-9014-7b554d695159
+    100026: InnerSide:81d97cd5-d217-4bc4-95b0-9ce572e6f6d9
+    100028: InnerSide:87e56655-f7f5-436e-bd34-6a54e77cbf2b
+    100030: InnerSide:9759d0d9-c5db-4fc9-9616-ae1fb69a43da
+    100032: InnerSide:a2d80fd9-2d24-4a33-b6e9-e04eaca8992d
+    100034: InnerSide:b8350de8-1462-4313-a607-5c6b7fb9ec30
+    100036: InnerSide:ba82f62e-66fd-41de-a287-be7bbf457bd7
+    100038: InnerSide:ccd44dfa-fac2-4021-801f-b4bee443fad4
+    100040: InnerSide:cebac9a3-f1eb-4bce-b063-ea478dda5e6e
+    100042: InnerSide:df7cb815-3161-4552-a89a-f3d22dad6347
+    100044: InnerSide:ee71e703-d754-4744-be34-c8017509d967
+    100046: InnerSide:f69ed085-aab3-4a24-b7e4-219e8a1c249b
+    400000: ExternalWalls:904074c8-a06f-4f3e-87fb-f2c478158764
+    400002: FloorFillerTop:904074c8-a06f-4f3e-87fb-f2c478158764
+    400004: //RootNode
+    400006: InnerSide:040ce451-1057-4eea-8642-b81159fa2483
+    400008: InnerSide:15878da7-51d3-4910-94e3-5689cb5d5a7a
+    400010: InnerSide:289b0f0c-eec0-42bb-808c-e72546e091da
+    400012: InnerSide:36bddf91-98e3-49a8-9b06-5c35af05ff8d
+    400014: InnerSide:41ef6834-0f2d-420a-9074-8c83d7a54307
+    400016: InnerSide:43a90c59-2392-4560-9b53-c792a3f54623
+    400018: InnerSide:4c7ed9e5-f973-4709-a4ef-6847141c8d49
+    400020: InnerSide:5ddb5b1f-90fc-4689-88fd-bd2662208e86
+    400022: InnerSide:612d8118-3a45-4c16-8c5c-44930e0763e6
+    400024: InnerSide:630ed554-15ae-4696-9014-7b554d695159
+    400026: InnerSide:81d97cd5-d217-4bc4-95b0-9ce572e6f6d9
+    400028: InnerSide:87e56655-f7f5-436e-bd34-6a54e77cbf2b
+    400030: InnerSide:9759d0d9-c5db-4fc9-9616-ae1fb69a43da
+    400032: InnerSide:a2d80fd9-2d24-4a33-b6e9-e04eaca8992d
+    400034: InnerSide:b8350de8-1462-4313-a607-5c6b7fb9ec30
+    400036: InnerSide:ba82f62e-66fd-41de-a287-be7bbf457bd7
+    400038: InnerSide:ccd44dfa-fac2-4021-801f-b4bee443fad4
+    400040: InnerSide:cebac9a3-f1eb-4bce-b063-ea478dda5e6e
+    400042: InnerSide:df7cb815-3161-4552-a89a-f3d22dad6347
+    400044: InnerSide:ee71e703-d754-4744-be34-c8017509d967
+    400046: InnerSide:f69ed085-aab3-4a24-b7e4-219e8a1c249b
+    2100000: Default OBJ.001
+    2300000: ExternalWalls:904074c8-a06f-4f3e-87fb-f2c478158764
+    2300002: FloorFillerTop:904074c8-a06f-4f3e-87fb-f2c478158764
+    2300004: InnerSide:040ce451-1057-4eea-8642-b81159fa2483
+    2300006: InnerSide:15878da7-51d3-4910-94e3-5689cb5d5a7a
+    2300008: InnerSide:289b0f0c-eec0-42bb-808c-e72546e091da
+    2300010: InnerSide:36bddf91-98e3-49a8-9b06-5c35af05ff8d
+    2300012: InnerSide:41ef6834-0f2d-420a-9074-8c83d7a54307
+    2300014: InnerSide:43a90c59-2392-4560-9b53-c792a3f54623
+    2300016: InnerSide:4c7ed9e5-f973-4709-a4ef-6847141c8d49
+    2300018: InnerSide:5ddb5b1f-90fc-4689-88fd-bd2662208e86
+    2300020: InnerSide:612d8118-3a45-4c16-8c5c-44930e0763e6
+    2300022: InnerSide:630ed554-15ae-4696-9014-7b554d695159
+    2300024: InnerSide:81d97cd5-d217-4bc4-95b0-9ce572e6f6d9
+    2300026: InnerSide:87e56655-f7f5-436e-bd34-6a54e77cbf2b
+    2300028: InnerSide:9759d0d9-c5db-4fc9-9616-ae1fb69a43da
+    2300030: InnerSide:a2d80fd9-2d24-4a33-b6e9-e04eaca8992d
+    2300032: InnerSide:b8350de8-1462-4313-a607-5c6b7fb9ec30
+    2300034: InnerSide:ba82f62e-66fd-41de-a287-be7bbf457bd7
+    2300036: InnerSide:ccd44dfa-fac2-4021-801f-b4bee443fad4
+    2300038: InnerSide:cebac9a3-f1eb-4bce-b063-ea478dda5e6e
+    2300040: InnerSide:df7cb815-3161-4552-a89a-f3d22dad6347
+    2300042: InnerSide:ee71e703-d754-4744-be34-c8017509d967
+    2300044: InnerSide:f69ed085-aab3-4a24-b7e4-219e8a1c249b
+    3300000: ExternalWalls:904074c8-a06f-4f3e-87fb-f2c478158764
+    3300002: FloorFillerTop:904074c8-a06f-4f3e-87fb-f2c478158764
+    3300004: InnerSide:040ce451-1057-4eea-8642-b81159fa2483
+    3300006: InnerSide:15878da7-51d3-4910-94e3-5689cb5d5a7a
+    3300008: InnerSide:289b0f0c-eec0-42bb-808c-e72546e091da
+    3300010: InnerSide:36bddf91-98e3-49a8-9b06-5c35af05ff8d
+    3300012: InnerSide:41ef6834-0f2d-420a-9074-8c83d7a54307
+    3300014: InnerSide:43a90c59-2392-4560-9b53-c792a3f54623
+    3300016: InnerSide:4c7ed9e5-f973-4709-a4ef-6847141c8d49
+    3300018: InnerSide:5ddb5b1f-90fc-4689-88fd-bd2662208e86
+    3300020: InnerSide:612d8118-3a45-4c16-8c5c-44930e0763e6
+    3300022: InnerSide:630ed554-15ae-4696-9014-7b554d695159
+    3300024: InnerSide:81d97cd5-d217-4bc4-95b0-9ce572e6f6d9
+    3300026: InnerSide:87e56655-f7f5-436e-bd34-6a54e77cbf2b
+    3300028: InnerSide:9759d0d9-c5db-4fc9-9616-ae1fb69a43da
+    3300030: InnerSide:a2d80fd9-2d24-4a33-b6e9-e04eaca8992d
+    3300032: InnerSide:b8350de8-1462-4313-a607-5c6b7fb9ec30
+    3300034: InnerSide:ba82f62e-66fd-41de-a287-be7bbf457bd7
+    3300036: InnerSide:ccd44dfa-fac2-4021-801f-b4bee443fad4
+    3300038: InnerSide:cebac9a3-f1eb-4bce-b063-ea478dda5e6e
+    3300040: InnerSide:df7cb815-3161-4552-a89a-f3d22dad6347
+    3300042: InnerSide:ee71e703-d754-4744-be34-c8017509d967
+    3300044: InnerSide:f69ed085-aab3-4a24-b7e4-219e8a1c249b
+    4300000: InnerSide:cebac9a3-f1eb-4bce-b063-ea478dda5e6e
+    4300002: InnerSide:43a90c59-2392-4560-9b53-c792a3f54623
+    4300004: InnerSide:df7cb815-3161-4552-a89a-f3d22dad6347
+    4300006: InnerSide:b8350de8-1462-4313-a607-5c6b7fb9ec30
+    4300008: InnerSide:289b0f0c-eec0-42bb-808c-e72546e091da
+    4300010: InnerSide:ba82f62e-66fd-41de-a287-be7bbf457bd7
+    4300012: InnerSide:ccd44dfa-fac2-4021-801f-b4bee443fad4
+    4300014: InnerSide:41ef6834-0f2d-420a-9074-8c83d7a54307
+    4300016: InnerSide:5ddb5b1f-90fc-4689-88fd-bd2662208e86
+    4300018: InnerSide:ee71e703-d754-4744-be34-c8017509d967
+    4300020: InnerSide:630ed554-15ae-4696-9014-7b554d695159
+    4300022: InnerSide:612d8118-3a45-4c16-8c5c-44930e0763e6
+    4300024: InnerSide:87e56655-f7f5-436e-bd34-6a54e77cbf2b
+    4300026: InnerSide:a2d80fd9-2d24-4a33-b6e9-e04eaca8992d
+    4300028: InnerSide:81d97cd5-d217-4bc4-95b0-9ce572e6f6d9
+    4300030: InnerSide:9759d0d9-c5db-4fc9-9616-ae1fb69a43da
+    4300032: InnerSide:36bddf91-98e3-49a8-9b06-5c35af05ff8d
+    4300034: InnerSide:040ce451-1057-4eea-8642-b81159fa2483
+    4300036: InnerSide:4c7ed9e5-f973-4709-a4ef-6847141c8d49
+    4300038: InnerSide:f69ed085-aab3-4a24-b7e4-219e8a1c249b
+    4300040: InnerSide:15878da7-51d3-4910-94e3-5689cb5d5a7a
+    4300042: FloorFillerTop:904074c8-a06f-4f3e-87fb-f2c478158764
+    4300044: ExternalWalls:904074c8-a06f-4f3e-87fb-f2c478158764
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
