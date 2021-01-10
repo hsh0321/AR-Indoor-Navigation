@@ -5,9 +5,7 @@
 # Indoor-Navigation-ARCore
  _구글 ARcore SDK를 이용하여 안드로이드 내비게이션 어플리케이션을 구현하였다.(Unity3D Project)_
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/_nfCblHYu-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![Capsule - Another World](https://www.youtube.com/watch?v=LZ6-PfPx0EM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_nfCblHYu-I/0.jpg)](https://www.youtube.com/watch?v=_nfCblHYu-I)
 
 ## Project Info ❓ :
  * Engine　　　　 : **Unity** - 2018.3.4f
