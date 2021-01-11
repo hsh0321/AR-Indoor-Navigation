@@ -1,3 +1,7 @@
+[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/hsh0321)](https://github.com/hsh0321)	
+[![Tech Blog Badge](http://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&link=https://www.instagram.com/_h_sh__/)](https://www.instagram.com/_h_sh__/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ppko1233@gmail.com)](mailto:ppko1233@gmail.com)
+
 [![author](https://img.shields.io/badge/HSH-BLOG-red.svg)](https://hsh0321.github.io/)
 [![Baekjoon](https://img.shields.io/badge/HSH-BAEKJOON-blue.svg)](https://www.acmicpc.net/user/ppko1233)
 [![HitCount](http://hits.dwyl.io/hsh0321/baekjoon_algorithm.svg?style=popout)](http://hits.dwyl.io/hsh0321/AR-Indoor-Navigation)
