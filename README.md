@@ -4,7 +4,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&link=https://www.instagram.com/_h_sh__/)](https://www.instagram.com/_h_sh__/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ppko1233@gmail.com)](mailto:ppko1233@gmail.com)
 
-# Indoor-Navigation-ARCore
+# Indoor-Navigation
  _구글 ARcore SDK를 이용하여 안드로이드 내비게이션 어플리케이션을 구현하였다.(Unity3D Project)_
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_nfCblHYu-I/0.jpg)](https://www.youtube.com/watch?v=_nfCblHYu-I)
